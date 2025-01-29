@@ -409,8 +409,8 @@ struct fim_options_t fim_options[] = {
  .P
  .nf
  Shift+D         delete image
- R               rotate 90° clockwise
- L               rotate 90° counter-clock wise
+ R               rotate 90 deg clockwise
+ L               rotate 90 deg counter-clock wise
  .fi
  .P
  The delete function actually wants a capital letter 'D', thus you have
